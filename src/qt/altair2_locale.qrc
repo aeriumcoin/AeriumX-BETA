@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/altair2_bg.qm</file>
+        <file alias="ca">locale/altair2_ca.qm</file>
+        <file alias="cs">locale/altair2_cs.qm</file>
+        <file alias="da">locale/altair2_da.qm</file>
+        <file alias="de">locale/altair2_de.qm</file>
+        <file alias="en">locale/altair2_en.qm</file>
+        <file alias="en_US">locale/altair2_en_US.qm</file>
+        <file alias="es">locale/altair2_es.qm</file>
+        <file alias="fi">locale/altair2_fi.qm</file>
+        <file alias="fr_FR">locale/altair2_fr_FR.qm</file>
+        <file alias="it">locale/altair2_it.qm</file>
+        <file alias="ja">locale/altair2_ja.qm</file>
+        <file alias="ko_KR">locale/altair2_ko_KR.qm</file>
+        <file alias="nl">locale/altair2_nl.qm</file>
+        <file alias="pl">locale/altair2_pl.qm</file>
+        <file alias="pt">locale/altair2_pt.qm</file>
+        <file alias="pt_BR">locale/altair2_pt_BR.qm</file>
+        <file alias="ro_RO">locale/altair2_ro_RO.qm</file>
+        <file alias="ru">locale/altair2_ru.qm</file>
+        <file alias="sk">locale/altair2_sk.qm</file>
+        <file alias="sv">locale/altair2_sv.qm</file>
+        <file alias="tr">locale/altair2_tr.qm</file>
+        <file alias="uk">locale/altair2_uk.qm</file>
+        <file alias="zh_CN">locale/altair2_zh_CN.qm</file>
+        <file alias="zh_TW">locale/altair2_zh_TW.qm</file>
+    </qresource>
+</RCC>

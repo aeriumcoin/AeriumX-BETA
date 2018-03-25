@@ -1,0 +1,11 @@
+[Protocol]
+exec=Altair-qt '%u'
+protocol=Altair
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

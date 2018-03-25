@@ -1,0 +1,6 @@
+usr/local/bin/altair2-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/altair2-qt.desktop usr/share/applications
+debian/altair2-qt.protocol usr/share/kde4/services/

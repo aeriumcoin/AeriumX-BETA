@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Altair2
+Comment=Altair2 P2P Cryptocurrency
+Comment[fr]=Altair2, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Altair2, eşten eşe kriptografik sanal para birimi
+Exec=altair2-qt %u
+Terminal=false
+Type=Application
+Icon=altair2128
+MimeType=x-scheme-handler/altair2;
+Categories=Office;Finance;

@@ -1,0 +1,26 @@
+# /etc/conf.d/altair2d: config file for /etc/init.d/altair2d
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/altair2/altair2.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/altair2d"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/altair2d.pid"
+
+# Where to write altair2d data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/altair2d"
+
+# User and group to own altair2d process
+#BITCOIND_USER="altair2"
+#BITCOIND_GROUP="altair2"
+
+# Path to altair2d executable
+#BITCOIND_BIN="/usr/bin/altair2d"
+
+# Nice value to run altair2d under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
